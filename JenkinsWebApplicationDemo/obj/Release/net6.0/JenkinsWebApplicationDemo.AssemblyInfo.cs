@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JenkinsWebApplicationDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01698a033a68b90ba7dea88066d4c1ddad9c6fb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("JenkinsWebApplicationDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JenkinsWebApplicationDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
